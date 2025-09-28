@@ -1,7 +1,7 @@
 # Expedia Hotel Scraper 🏨
 
 Scraper sederhana untuk mengambil data hotel dari [Expedia Indonesia](https://www.expedia.co.id).  
-Data yang diambil mencakup **Nama Hotel, Bintang, Alamat, Breadcrumb, dan Link detail hotel** lalu disimpan ke file Excel/CSV.
+Data yang diambil mencakup **Nama Hotel, Bintang, Alamat, Breadcrumb, dan Link detail hotel** lalu disimpan ke file Excel.
 
 ---
 
