@@ -6,7 +6,7 @@ Data yang diambil mencakup **Nama Hotel, Bintang, Alamat, Breadcrumb, dan Link d
 ---
 
 ## 🚀 Fitur
-- Scraping semua halaman hotel di Expedia Indonesia
+- Scraping 3 halaman pertama hotel di Expedia Indonesia (Bisa diubah banyaknya scraping halaman sesuai kebutuhan)
 - Mengambil data:
   - Nama hotel
   - Rating (bintang)
